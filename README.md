@@ -7,4 +7,6 @@ This is an ST-Link V2.1 in the form of an USB dongle, similar to those available
 - SWO for SW Trace functionality
 - RX/TX for VCP (Virtual Com Port)
 
+[**MORE INFO**](http://embedblog.eu/?p=780)
+
 ![photo](overview.JPG)
