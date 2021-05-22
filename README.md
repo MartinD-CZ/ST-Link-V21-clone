@@ -10,3 +10,6 @@ This is an ST-Link V2.1 in the form of an USB dongle, similar to those available
 [**MORE INFO**](http://embedblog.eu/?p=780)
 
 ![photo](overview.JPG)
+
+### Update 05/21
+I've made another version, this time with an SMD crystal and a microUSB connector - it's marked as rev10D.
